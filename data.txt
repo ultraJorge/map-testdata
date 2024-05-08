@@ -1,0 +1,2 @@
+Marker 1	54.34170	10.04010	<p>This is a marker popup with a <a href='https://www.example.com'>link</a></p>
+Marker 2	54.44170	10.14010	<p>This is a marker popup with a <a href='https://www.example.com'>link</a></p>
