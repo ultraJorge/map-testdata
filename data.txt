@@ -1,2 +1,2 @@
-Country Music Festival	1  54.34170	10.04010	2406132030	2406151430	120	https://www.countrymusicfestival.com	Lots of country music
-Clown World Circus	2  54.44170	10.14010	2405111800	2405112200	5	https://www.clownworldcircus.com	Clowns and stuff
+Country Music Festival	1	54.34170	10.04010	2406132030	2406151430	120	https://www.countrymusicfestival.com	Lots of country music
+Clown World Circus	2	54.44170	10.14010	2405111800	2405112200	5	https://www.clownworldcircus.com	Clowns and stuff
